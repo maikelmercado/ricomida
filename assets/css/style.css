@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Cabin", sans-serif;
+    color: var(--negroL);
+}
+
+/*dos puntos seudo clase*/
+:root{
+     --main-bg-color:#373a3c;
+
+}
+.navbar{
+    background: var(--main-bg-color);
+    
+}
+.navbar-brand img{
+    height: 2.5rem;
+}
+
+.navbar-nav{
+    margin-right: 150px;
+}
+.complementario{
+    margin: 30px;
+    margin-top: 60px;
+}
+h3{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.correo{
+    margin-top: 20px;
+}
+
+ol {
+    list-style: none;
+  
+}
+
+
+.single-box{
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.img-area{
+    border: 40px solid #ffffff;
+}
+
+.carousel-indicators {
+    top: 108%;
+  }
+  
+  .carousel-indicators li {
+    border-radius: 50%;
+    background-color: #373A3C !important;
+    height: 11px !important;
+    width: 11px !important;
+    
+  }
+
+
+.parrafo{
+   text-align: left;
+}
+.parrafo2{
+    text-align:justify;
+    font-style: italic;
+   
+  
+
+}
+
+
+
+.card-title{
+    margin-top: 10px;
+}
+
+
+.bg-danger {
+  height: 500px;
+    
+}
+
+
+.p-2{
+    font-family: "Cabin", sans-serif;
+    text-align: left;
+    font-size: medium;
+
+ 
+    
+}
+
+
+.suscribete2{
+        font-size: 18pt;
+
+      
+}
+
+.suscribete{
+    margin-top: 80px;
+}
+
+.nav_titulo {
+    font-family: "Lobster", cursive;
+    font-size: 39px;
+  }
+  .ricacomida{
+    font-family: "Lobster", cursive;
+    font-size: 39px;
+    
+  }
+  .p_ricacomida{
+    font-family: "Lobster", cursive;
+    font-size: 29px;
+
+  }
+  
+  .masa{
+    text-align: left;
+  }
